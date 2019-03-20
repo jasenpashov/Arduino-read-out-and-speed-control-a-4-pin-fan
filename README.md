@@ -33,10 +33,17 @@ What I understood based on my practices and on of many attempts
 Sources:
 
 https://handyman.dulare.com/client-server-communication-using-esp8266/
+
 https://codebender.cc/sketch:177208#PWM_Fan.ino
+
 http://forum.arduino.cc/index.php?topic=18742.15
+
 http://www.beefrankly.org/blog/2011/12/21/read-out-4-pin-cpu-fan-speed/
+
 https://www.picmicrolab.com/arduino-pwm-fan-controller/
+
 http://www.theorycircuit.com/reading-dc-fan-rpm-arduino/
+
 https://www.avrfreaks.net/forum/control-pwm-pc-12v-fan-speed
+
 https://www.instructables.com/id/OPEN-SOURCE-AIR-PURIFIER/  

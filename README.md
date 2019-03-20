@@ -26,7 +26,7 @@ Rresistor pack - 0.0001€ок
 I have not tried working with other fans.
 
 What I understood based on my practices and on of many attempts
-- The NodeMCU and the fan must have a common negative pole (-).
+- The NodeMCU and the fan must have a common GND.
 - I can not achieve the maximum fan speed.
 - The system operates unstable without a 560R resistor. I am not sure whether it is OK with other values.
  
